@@ -26,7 +26,7 @@ Comercial parts                   | Quantity
 DC Motor 12V 60RPM | 1
 605ZZ | 6
 M5 nut | 8
-Low profile M5 nut
+Low profile M5 nut | 3
 M5x10 bolt| 8
 M5x15 flat head bolt | 3
 M3x10 parker bolt | 3
