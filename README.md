@@ -17,14 +17,14 @@ The case has some 5 mm holes to attach the pump to some structure. In my case, V
 <img src="/img/exploded.png" width="700">
 
 ID | 3D printed parts                    | Quantity
- ---------------------------   | ------------
+ ----- | ---------------------------   | ------------
 A | Case | 1
 B | Lower lid | 1
 C | Upper lid| 1
 D | Impeller| 1
 
 ID | Comercial parts                   | Quantity
- ---------------------------   | ------------
+ ----- | ---------------------------   | ------------
 1 | DC Motor 12V 60RPM | 1
 2 | 605ZZ | 6
 3 | M5 nut | 8
@@ -47,7 +47,7 @@ I printed the parts with PLA, 0.3 mm layer height and without supports nor raft,
 
 I think that the orientation is pretty obvious, but here is an image anyway. 
 
-<img src="/img/3DP.png" width="700">
+<img src="/img/3dp.png" width="700">
 
 The files are in this repository, native inventor parts, .STEP and .STL. It is important that you adjust the tolerances in the parts, as your printer may be different than mine, which is not working really well :c .
 
