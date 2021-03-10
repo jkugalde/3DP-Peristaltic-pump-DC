@@ -39,6 +39,8 @@ ID | Comercial parts                   | Quantity
 
 The washer is to prevent friction from the impeller against the lid. 
 
+NOTE: You can use another type of bolts as long as they have an optimal length.
+
 # Manufacture
 
 ## 3D printing
@@ -55,8 +57,6 @@ After printing remove any extra hair or leftovers and maybe drill trough the hol
 
 ## Assembly
 
-a)
-
 <img src="/img/imp.png" width="700">
 
 1) Press the M5 low profile nuts against the impeller
@@ -64,21 +64,17 @@ a)
 3) Put the set screws in the nuts, without passing through the shaft hole
 4) Bolt the M5x15 bolts with the M5 nuts, with two bearings in between
 
-b)
+<img src="/img/assem1.png" width="700">
 
-- Press the M5 nuts against the case
-- Bolt the motor to the lower lid with the sink bolts
-- Put the case on top of the motor
-- Pass the hose through the big hole on the case, and then through the other one
-- Put the washer and the impeller on the shaft all the way through. 
-- Accomodate the hose
+5) Press the M5 nuts against the case
+6) Pass the hose through the small hole on the case (I), and then through the other one (II) from the inside. It is easier with a twisting motion.
+7) Bolt the motor against the lower lid with the M3 sinkhead bolts.
 
-c) 
+<img src="/img/assem2.png" width="700">
 
-- Bolt the case and the lower lid.
-- Tighten the M3 bolts with an allen key trough the hole in the case. 
-- Rotate the impeller by hand or with electrical power and repeat the last step.
-- Bolt the case and the upper lid.
+8) Put the case on top of the lower lid, and then impeller with the washer in between, tweak it around to displace the hose so it is against the inner wall of the case and pressed by the bearings.
+9) Tighten the set screws using the hole (III), be sure that one of them is pressing the flat side of the shaft. Turn the motor and tweak around the pieces to get access to the rest of the screws.
+10) Bolt the lids with the M5x10 bolts.
 
 # Tests
 
