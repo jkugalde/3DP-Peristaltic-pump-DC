@@ -13,7 +13,7 @@ My take on making a small peristaltic pump, using 3d printed parts and a DC moto
 ## How to build it
 
 - [LIST](parts.md) of parts and tools.
-- [CAD files](parts/).
+- [CAD files](https://grabcad.com/library/3dp-peristaltic-pump-2).
 - [ELECTRONICS](elec.md).
 - [ASSEMBLY](assembly.md)
 
@@ -22,7 +22,6 @@ My take on making a small peristaltic pump, using 3d printed parts and a DC moto
 - To diminish the pulsation
 
 ## Licence
-
 
 This work is published under the license [Creative Commons Attribution 4.0 International
 License][cc-by-sa].
