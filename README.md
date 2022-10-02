@@ -1,27 +1,13 @@
-# 3DP peristaltic pump (DC)
+# Summary
 
 My take on making a small peristaltic pump, using 3d printed parts and a DC motor. It has been tested successfully with glycerine, and controlled in an open and closed loop system, which are included in this repository.
 
 <img src="/img/isobomb.png" width="400">
 
-## Features
+The assembly instructions are [HERE](https://jkugalde.github.io/portfolio/ppdc/).
+The parts are [HERE](https://grabcad.com/library/3dp-peristaltic-pump-2).
 
-- Flow x cc/s.
-- 6 mm silicone hose.
-- 12 V DC gearbox motor.
-
-## How to build it
-
-- [LIST](parts.md) of parts and tools.
-- [CAD files](https://grabcad.com/library/3dp-peristaltic-pump-2).
-- [ELECTRONICS](elec.md).
-- [ASSEMBLY](assembly.md)
-
-## Future work
-
-- To diminish the pulsation
-
-## Licence
+## License
 
 This work is published under the license [Creative Commons Attribution 4.0 International
 License][cc-by-sa].
